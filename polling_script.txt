@@ -56,9 +56,9 @@ with open(output_file, 'w') as textfile:
     
 
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#					Sources
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# 		 Sources                 #
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 # https://stackoverflow.com/questions/39521096/how-to-add-apostrophes-in-a-dictionnary
 # https://docs.python.org/3/library/csv.html
 # https://courses.cs.washington.edu/courses/cse140/13wi/csv-parsing.html
